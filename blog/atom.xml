@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lilith887.github.io/lilith-blog/blog"/>
     <subtitle>Lilith 的博客 Blog</subtitle>
-    <icon>https://lilith887.github.io/lilith-blog/img/favicon.ico</icon>
+    <icon>https://lilith887.github.io/lilith-blog/lilith-blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://lilith887.github.io/lilith-blog/blog/welcome</id>
