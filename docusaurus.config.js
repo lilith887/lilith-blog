@@ -9,6 +9,7 @@ const config = {
 
   url: 'https://lilith887.github.io',
   baseUrl: '/lilith-blog/',
+  trailingSlash: true,  // ← 新增
 
   organizationName: 'lilith887',
   projectName: 'lilith-blog',
@@ -49,7 +50,7 @@ const config = {
       items: [
         {
           label: '学习小记',
-          to: '/docs/notes/day1-setup', // 跳转到第一篇笔记
+          to: '/docs/beginners-guide/day1-setup', // 跳转到第一篇笔记
           position: 'left',
         },
         { to: '/blog', label: 'Blog', position: 'left' },

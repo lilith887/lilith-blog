@@ -3,7 +3,7 @@ title: "Day 3：从 Typora 草稿到线上博客"
 slug: /day3-typora-to-blog
 ---
 
-# Day 3 完结篇：从 Typora 草稿到线上博客  
+# 从 Typora 草稿到线上博客  
 > 日期：2025-07-16  
 > 作者：lilith887  
 > 关键词：Typora、Docusaurus、GitHub Pages、Actions 排队、404 排查  
