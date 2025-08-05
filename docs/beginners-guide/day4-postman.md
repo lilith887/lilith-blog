@@ -27,7 +27,7 @@
 - 打开你的 API 请求（比如 `Public API Test`），把 URL 改成：
   
   ```
-  {{ '{{' }}base_url{{ '}}' }}:{{ '{{' }}port{{ '}}' }}/endpoint # 用双大括号引用环境变量 
+  \{{base_url}}:\{{port}}/endpoint # 用双大括号引用环境变量 
   ```
   
 - 测试：在右上角切换 `Dev Environment` 和 `Prod Environment`，URL 会自动更新，超方便！
@@ -48,9 +48,9 @@
   
   ### 环境依赖
   
-- 开发环境：{{ '{{' }}base_url{{ '}}' }}:{{ '{{' }}port{{ '}}' }}（需切换到 Dev Environment）
+- 开发环境：\{{base_url}}:\{{port}}（需切换到 Dev Environment）
   
-- 生产环境：{{ '{{' }}base_url{{ '}}' }}:{{ '{{' }}port{{ '}}' }}（需切换到 Prod Environment）
+- 生产环境：\{{base_url}}:\{{port}}（需切换到 Prod Environment）
   
   ### 请求参数
   
